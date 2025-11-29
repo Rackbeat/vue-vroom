@@ -55,6 +55,6 @@
     "vue": "^3.0.0"
   },
   "dependencies": {
-    "@vue/devtools-api": "^6.4.4"
+    "@vue/devtools-api": "^6.6.4"
   }
 }
